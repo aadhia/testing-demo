@@ -10,7 +10,7 @@ cd site
 git init
 
 # Configure Git
-git config user.name "Arjun Adhia"
+git config user.name "Travis CI"
 git config user.email "arjun.adhia@gmail.com"
 
 # Commit all the things into the repo
